@@ -8,3 +8,8 @@ Project: Í Project þú ert eins og safnari sem geymir allar þær skrár sem �
 Hierarchy: Í Hierarchy þú ert eins og stjórnandi sem sér um uppbyggingu leiksins. Þú sérð hver hlutur er tengdur við hverja og hvernig allt fellur saman.
 
 Inspector: Í Inspector þú ert eins og stillarameistari, sérð smáatriði og breytir stillingum á hlutum. Þú getur breytt liti, stærð, hreyfingum og öðru.
+
+
+## Unit 5: https://youtu.be/a-bbUa-u1YE ps Hunsaðu tónlista í bakkrunninnum
+
+## Unit 1 https://youtu.be/0SsXoPQyOFA
